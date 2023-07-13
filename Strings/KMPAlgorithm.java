@@ -1,3 +1,4 @@
+/*https://www.codingninjas.com/studio/problems/search-pattern-kmp-algorithm_8416386?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf*/
 import java.util.*;
 public class Solution {
     // TC O(nm) | SC O(1)
